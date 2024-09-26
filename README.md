@@ -16,8 +16,8 @@
 ### Task 3 - Challenges 
 
 1. Working With Music & Music-Related Data 
-   - Access Curation
-     - Distribution
+   - Access to Music-related data is common as digitised files require proper accreditation. Curating copyrighted music (audio files, sheet music) becomes more challenging as works may be harder to access. 
+   - Music data distribution can become inaccurate through secondary sources, therefore it is important to source metadata from reliable sources. 
 
 2. Theme & Emphasised Challenges
    - First nested list item
