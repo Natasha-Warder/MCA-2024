@@ -1,6 +1,6 @@
-# \[MCA Labs 2660237w\]
+# MCA Labs 2660237w
 ##  Week 1
-# # #  Task 2 - Identifying a theme for your dataset
+###  Task 2 - Identifying a theme for your dataset
 - Artist:
 * composer:
 + writers:
@@ -11,7 +11,7 @@
 * Genre:
 + Archival Grouping:
 
-# # #  Task 3 - Challenges 
+### Task 3 - Challenges 
 
 
 # Week 2
