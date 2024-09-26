@@ -3,7 +3,10 @@
 Task 2 - Identifying a theme for your dataset
 - Artist:
 * composer:
-+ writers
++ writers:
+- Artist:
+* composer:
++ writers:
 
 # Week 2
 
