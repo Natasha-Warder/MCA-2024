@@ -22,9 +22,11 @@
 2. Theme & Emphasised Challenges
    - Discussing sound beyond structured melodies: reverb, synth and bass.
    - deconstructing authourship and proper accreditation.
+   - defining ownership and gathering concise information. 
      
 3. Theme & Manifestations of Data 
-   - Present curation takes many forms: sheet music, vocal covers, instrumental covers and thematic analysis. The lyricism and sampling of contrasting sounds have been discussed extensively by journalists over MIA's ability to satirise the American perception of third-world immigrants. 
+   - Present curation takes many forms: sheet music, vocal covers, instrumental covers and thematic analysis. The lyricism and sampling of contrasting sounds have been discussed extensively by journalists over MIA's ability to satirise the American perception of third-world immigrants.
+   - As there is a lot of avaiable information for this dataset, it is important to ensure data is factually correct when utilising a scope of sources.
 
 
 # Week 2
