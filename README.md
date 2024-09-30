@@ -3,8 +3,8 @@
 ###  Task 2 - Identifying a theme for your dataset
 + Title: Paper Planes 
 - Artist: MIA, Mathangi Maya Arulpragasam
-* composer: MIA ft Diplo
-+ writers: Cowritten MIA, Diplo, the clash
+* composer: MIA, Diplo
++ writers: MIA, Diplo, (The Clash); Joe Strummer, Mick Jones, Paul Simonon, Topper Headon
 - Performer: MIA
 * Album: Kala
 + Larger Work: samples; 'straight to hell' The Clash 1987, African folk song
@@ -20,12 +20,11 @@
    - Music data distribution can become inaccurate through secondary sources, therefore it is important to source metadata from reliable sources. 
 
 2. Theme & Emphasised Challenges
-   - First nested list item
-     - Second nested list item
-
+   - Discussing sound beyond structured melodies: reverb, synth and bass.
+   - deconstructing authourship and proper accreditation.
+     
 3. Theme & Manifestations of Data 
-   - discuss present curation (collected and gathered)
-     - how its presented described and analysed
+   - Present curation takes many forms: sheet music, vocal covers, instrumental covers and thematic analysis. The lyricism and sampling of contrasting sounds have been discussed extensively by journalists over MIA's ability to satirise the American perception of third-world immigrants. 
 
 
 # Week 2
