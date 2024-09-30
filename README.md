@@ -1,15 +1,15 @@
 # MCA Labs 2660237w
 ##  Week 1
 ###  Task 2 - Identifying a theme for your dataset
-- Artist:
-* composer:
-+ writers:
-- Performer:
-* Album:
-+ Larger Work:
-- Time Period:
-* Genre:
-+ Archival Grouping:
++ Title: Paper Planes 
+- Artist: MIA, Mathangi Maya Arulpragasam
+* composer: MIA ft Diplo
++ writers: Cowritten MIA, Diplo, the clash
+- Performer: MIA
+* Album: Kala
++ Larger Work: samples; 'straight to hell' The Clash 1987, African folk song
+- Time Period: 2007
+* Genre: Alternative HipHop, Electro Hop, Pop
 
   
 
