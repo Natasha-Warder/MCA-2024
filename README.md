@@ -31,22 +31,14 @@
 
 # Week 2
 
+Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
+Evaluating transcription by the OMR engine: 
+Dotted half notes had to be fixed as the computer mistook the shape of dots as artefacts. 
+The scale of the PDF is accurate, therefore poor photo quality did not impact machine ability to identify straight lines. 
+When playing the song, bar lines had to be adjusted as rests were misplaced, which created inaccuracies in rhythm. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+During the group activity on tuesday, inaccuracies were found in performance methods. The piece is structured using a two staff format, whereas All of The Lights uses a bass clef for violin to accompany a treble clef and bass clef for piano. Although less instrumentation was notated, QMR engine completely removed vital information like fingerings, time signature, the composer and title. This was an unexpected outcome as accompaniment involves ensuring the cohesive nature accross different instruments. 
 
 
 # Week 3
