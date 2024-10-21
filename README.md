@@ -15,13 +15,14 @@
 ### Task 3 - Challenges 
 
 1. Working With Music & Music-Related Data 
-   - Access to Music-related data is common as digitised files require proper accreditation. Curating copyrighted music (audio files, sheet music) becomes more challenging as works may be harder to access. 
+   - Access to Music-related data is common as digitised files require proper accreditation. Curating copyrighted music (audio files, sheet music) becomes more challenging as works may be harder to access.
    - Music data distribution can become inaccurate through secondary sources, therefore it is important to source metadata from reliable sources. 
 
 2. Theme & Emphasised Challenges
    - Discussing sound beyond structured melodies: reverb, synth and bass.
    - deconstructing authourship and proper accreditation.
-   - defining ownership and gathering concise information. 
+   - defining ownership and gathering concise information.
+   - plotting notes accurately based on proximity accurately.
      
 3. Theme & Manifestations of Data 
    - Present curation takes many forms: sheet music, vocal covers, instrumental covers and thematic analysis. The lyricism and sampling of contrasting sounds have been discussed extensively by journalists over Kanye's acceptance of the media's perception of him.
