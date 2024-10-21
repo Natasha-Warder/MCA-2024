@@ -1,15 +1,14 @@
 # MCA Labs 2660237w
 ##  Week 1
 ###  Task 2 - Identifying a theme for your dataset
-+ Title: Runaway
-- Artists: Kanye West, Pusha T
-* Producers: Kanye West
-+ writers: Kanye West, Emile, Jeff Basker, Mike Dean, Malik Yusef
-- Performer: Kanye West
-* Album: My Beautiful Dark Twisted Fantasy
-+ Larger Work: samples; Expo'83 - The Backyard Heavies 1971, Mary Jane (Live) - Rick James 2001, Introduction to Star Time! - James Brown 1968
-- Time Period: 2009-10
-* Genre: Progressive Rap
++ Title: All of the lights
+- Producers: Kanye West
+* writers: Kanye West, Emile, Jeffrey Basker, Warren Trotter, Malik Jones
++ Performer: Kanye West, Rihanna, Kid Cudi
+- Album: My Beautiful Dark Twisted Fantasy
+* Larger Work: samples; Expo'83 - The Backyard Heavies 1971, Mary Jane (Live) - Rick James 2001, Introduction to Star Time! - James Brown 1968
++ Time Period: 2009-10
+- Genre: Progressive Rap
 
   
 
