@@ -8,7 +8,7 @@
 - Album: My Beautiful Dark Twisted Fantasy
 * Larger Work: samples; Expo'83 - The Backyard Heavies 1971, Mary Jane (Live) - Rick James 2001, Introduction to Star Time! - James Brown 1968
 + Time Period: 2009-10
-- Genre: Progressive Rap
+- Genre: HipHop / Rap
 
   
 
