@@ -22,7 +22,7 @@
    - Discussing sound beyond structured melodies: reverb, synth and bass.
    - deconstructing authourship and proper accreditation.
    - defining ownership and gathering concise information.
-   - plotting notes accurately based on proximity accurately.
+   - plotting notes accurately based on proximity and scale.
      
 3. Theme & Manifestations of Data 
    - Present curation takes many forms: sheet music, vocal covers, instrumental covers and thematic analysis. The lyricism and sampling of contrasting sounds have been discussed extensively by journalists over Kanye's acceptance of the media's perception of him.
