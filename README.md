@@ -47,13 +47,13 @@ During the group activity on tuesday, inaccuracies were found in performance met
 ### Comparing MusicXML and MEI elements 
 
 #### Note element
-for MusicXML the <note> element includes attributes like '<pitch>', <duration>, <type>, and <accidental>. It is designed to represent musical notes, specifying pitch and rhythmic values clearly. Whereas, for MEI The <note> element in MEI is more flexible, using attributes like pname, oct, and dur. MEI also supports richer metadata for notational details.
+for MusicXML the <note> element includes attributes like pitch, duration, type, and accidental. It is designed to represent musical notes, specifying pitch and rhythmic values clearly. Whereas, for MEI The <note> element in MEI is more flexible, using attributes like pname, oct, and dur. MEI also supports richer metadata for notational details.
 
 #### Part element
-for MusicXML the <part> element contains a sequence of measures and is used to delineate different voices or instruments in a score. Whereas, for MEI The <staff> element in MEI may have multiple measures and can include additional context about the performance, instrumentation, and more.
+for MusicXML the part element contains a sequence of measures and is used to delineate different voices or instruments in a score. Whereas, the staff element in MEI may have multiple measures and can include additional context about the performance, instrumentation, and more.
 
 #### Measure element
-for Music XML the <measure> element contains <attributes> and <note> elements, clearly outlining the structure of the music, including time signatures and key signatures. Whereas for MEI, a <measure> is also a container for <note> elements and can include <attributes>. However, it uses a more abstract approach for structural elements, allowing for varied representations.
+for Music XML the measure element contains attributes and note elements, clearly outlining the structure of the music, including time signatures and key signatures. Whereas for MEI, a measure is also a container for note elements and can include attributes. However, it uses a more abstract approach for structural elements, allowing for varied representations.
 
 
 #### Attributes Employed in Each Standard
