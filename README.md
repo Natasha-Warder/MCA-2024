@@ -58,8 +58,35 @@ for Music XML the measure element contains attributes and note elements, clearly
 
 #### Attributes Employed in Each Standard
 
+- Music XML Parent-Child Relationships Structure:
+part → measure → note
+measure can contain attributes, note, and other musical elements (like rest).
+
+- MEI Parent-Child Relationships Structure:
+staff → measure → note
+measure can contain attr, note, rest, and other elements.
+
 
 #### Implications of Differences 
+
+MusicXML Implications
+- Simplicity: MusicXML's straightforward structure makes it easy to parse and understand for developers and music notation software.
+- Limited Flexibility: While it covers basic musical notation well, it may struggle with more complex scenarios (like extended techniques, unconventional notations).
+
+MEI Implications
+- Richness and Complexity: MEI's flexibility allows for detailed representations, including extended techniques, performance instructions, and complex musical structures.
+- Interoperability Challenges: The complexity of MEI can make it harder for some software to implement, potentially limiting its use outside academic or specialized contexts.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
