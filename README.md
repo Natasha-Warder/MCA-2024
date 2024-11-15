@@ -79,14 +79,41 @@ MEI Implications
 
 
 
+# Week 4
+
+### jSymbolic Analysis & Music21 Piano Roll and Histogram
 
 
 
 
+# Week 5
+
+### MEI Metadata Schema
 
 
 
 
+# Week 7
+
+### Updating MEI Elements
 
 
+
+
+# Week 8
+
+### Task 1 
+Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
+Identify and list (in a table) the most important technical and non-technical metadata associated with each track. At a minimum, include:
+
+### Task 2
+For each downloaded track, generate a spectrogram (with a log-spaced frequency scale) in SonicVisualizer.
+Export the waveform and spectrogram in an image format for your GitHub portfolio.
+In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
+
+
+# Week 9
+## Extracting Data From Audio
+### Task 1 - Extracting Features
+### Task 2 - Compute and Visualise Features with Histograms
 
