@@ -90,9 +90,6 @@ MEI Implications
 
 ### MEI Metadata Schema
 
-
-
-
 # Week 7
 
 ### Updating MEI Elements
@@ -105,6 +102,20 @@ MEI Implications
 ### Task 1 
 Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
 Identify and list (in a table) the most important technical and non-technical metadata associated with each track. At a minimum, include:
+
+| Title         | Track 1       | Track 2       | Track 3       |
+| ------------- | ------------- | ------------- | ------------- |
+| Artist        | Content Cell  | Content Cell  | Content Cell  |
+| Composer      | Content Cell  | Content Cell  | Content Cell  |
+| Copyright     | Content Cell  | Content Cell  | Content Cell  |
+| Genre         | Content Cell  | Content Cell  | Content Cell  |
+| Source        | Content Cell  | Content Cell  | Content Cell  |
+| File format   | Content Cell  | Content Cell  | Content Cell  |
+| Channels      | Content Cell  | Content Cell  | Content Cell  |
+| Sample Rate   | Content Cell  | Content Cell  | Content Cell  |
+| Bits/sec      | Content Cell  | Content Cell  | Content Cell  |
+| Duration      | Content Cell  | Content Cell  | Content Cell  |
+
 
 ### Task 2
 For each downloaded track, generate a spectrogram (with a log-spaced frequency scale) in SonicVisualizer.
