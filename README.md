@@ -102,18 +102,18 @@ MEI Implications
 ### Task 1 
 Important technical and non-technical metadata:
 
-| Title         | Track 1       | Track 2       | Track 3       |
-| ------------- | ------------- | ------------- | ------------- |
-| Artist        | Content Cell  | Content Cell  | Content Cell  |
-| Composer      | Content Cell  | Content Cell  | Content Cell  |
-| Copyright     | Content Cell  | Content Cell  | Content Cell  |
-| Genre         | Content Cell  | Content Cell  | Content Cell  |
-| Source        | Content Cell  | Content Cell  | Content Cell  |
-| File format   | Content Cell  | Content Cell  | Content Cell  |
-| Channels      | Content Cell  | Content Cell  | Content Cell  |
-| Sample Rate   | Content Cell  | Content Cell  | Content Cell  |
-| Bits/sec      | Content Cell  | Content Cell  | Content Cell  |
-| Duration      | Content Cell  | Content Cell  | Content Cell  |
+| Title         | Drunk Piano            | Andante                | Our Own Melody        |
+| ------------- | ---------------------- | ---------------------- | ----------------------| 
+| Artist        | Shadow Priest          | Jean Toba              | Blue Dot Sessions     |
+| Composer      | Content Cell           | Content Cell           | Content Cell          |
+| Copyright     | Creative Commons       | Creative Commons       | Creative Commons      |
+| Genre         | Electronic, Experimental, Downtempo | Jazz, soul, RnB | Minimalism, soul |
+| Source        | Free Music Archive | Free Music Archive | Free Music Archive |
+| File format   | VLC.wav | VLC.wav | VLC.wav |
+| Channels      | Content Cell          | Content Cell           | Content Cell          |
+| Sample Rate   | Content Cell          | Content Cell           | Content Cell          |
+| Bits/sec      | 1411kbps          | 1411kbps           | 1411kbps           |
+| Duration      | 1.57         | 5.35           | 3.06       |
 
 
 ### Task 2
