@@ -115,6 +115,17 @@ Important technical and non-technical metadata:
 | Bits/sec      | 1411kbps          | 1411kbps           | 1411kbps           |
 | Duration      | 1.57         | 5.35           | 3.06       |
 
+#### Drunk Piano
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
+
+
+#### Andante
+
+
+#### Our Own Melody
+
+
+
 
 ### Task 2
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
