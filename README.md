@@ -100,8 +100,7 @@ MEI Implications
 # Week 8
 
 ### Task 1 
-Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
-Identify and list (in a table) the most important technical and non-technical metadata associated with each track. At a minimum, include:
+Important technical and non-technical metadata:
 
 | Title         | Track 1       | Track 2       | Track 3       |
 | ------------- | ------------- | ------------- | ------------- |
