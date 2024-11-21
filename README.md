@@ -117,9 +117,7 @@ Important technical and non-technical metadata:
 
 
 ### Task 2
-For each downloaded track, generate a spectrogram (with a log-spaced frequency scale) in SonicVisualizer.
-Export the waveform and spectrogram in an image format for your GitHub portfolio.
-In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
+Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
 
 # Week 9
