@@ -116,15 +116,16 @@ Important technical and non-technical metadata:
 | Duration      | 1.57         | 5.35           | 3.06       |
 
 #### Drunk Piano
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
-
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
 
 #### Andante
-
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
 
 #### Our Own Melody
-
-
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
 
 
 ### Task 2
