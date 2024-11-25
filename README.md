@@ -124,6 +124,11 @@ Important technical and non-technical metadata:
 #### Our Own Melody
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
 
+CSV FILES 
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
+
 
 ### Task 2
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
@@ -132,11 +137,8 @@ Time-frequency analysis has an advantage over waveform-based analysis by providi
 # Week 9
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
+The Track 'All of The Lights Interlude' was split into three sections beginning, middle and end of the interlude for this exercise. 
 
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
-
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
 
 
 ### Task 2 - Compute and Visualise Features with Histograms
