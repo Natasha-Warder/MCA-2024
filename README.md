@@ -117,15 +117,12 @@ Important technical and non-technical metadata:
 
 #### Drunk Piano
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
 
 #### Andante
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
 
 #### Our Own Melody
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
 
 
 ### Task 2
@@ -135,5 +132,12 @@ Time-frequency analysis has an advantage over waveform-based analysis by providi
 # Week 9
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
-### Task 2 - Compute and Visualise Features with Histograms
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
 
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
+
+(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
+
+
+### Task 2 - Compute and Visualise Features with Histograms
+For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
