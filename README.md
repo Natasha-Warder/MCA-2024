@@ -124,7 +124,7 @@ Important technical and non-technical metadata:
 #### Our Own Melody
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
 
-CSV FILES 
+CSV FILES: Spectrograms with log-spaced frequencies 
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
