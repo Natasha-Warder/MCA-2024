@@ -95,7 +95,8 @@ Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w
 
 #### Task 2 Generating a piano roll and a pitch histogram
 
-
+  <img title="a title" alt="Alt text" src="/images/pianoroll.png">
+    <img title="a title" alt="Alt text" src="/images/histogram1.png">
 
 
 
