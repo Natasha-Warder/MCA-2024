@@ -10,7 +10,7 @@
 + Time Period: 2009-10
 - Genre: HipHop / Rap
 
-  <img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
+  <img title="a title" alt="Alt text" src="/images/interlude.png">
 
 ### Task 3 - Challenges 
 
