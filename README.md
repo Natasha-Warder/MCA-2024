@@ -12,6 +12,7 @@ Cloning the MCA Github Repository.
 * Larger Work: samples; Expo'83 - The Backyard Heavies 1971, Mary Jane (Live) - Rick James 2001, Introduction to Star Time! - James Brown 1968
 + Time Period: 2009-10
 - Genre: HipHop / Rap
+
 Click here to access [All of The Lights Original Sheet Music](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/allofthelights.pdf)
 
 ## Task 3 - Challenges 
