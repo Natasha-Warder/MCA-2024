@@ -98,14 +98,13 @@ MEI Implications
 
 # Week 4: Computational Analytics of Music Notation
 
-### jSymbolic Analysis & Music21 Piano Roll and Histogram
-## Task 1
+## Task 1 - jSymbolic Analysis
 In generating a jSymbolic of my piece, this displayed Range, Mean Pitch, Last Pitch and Most Common Rhythm Value: 
 
 Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
 )
 
-## Task 2 Generating a piano roll and a pitch histogra
+## Task 2 - Generating a piano roll and a pitch histogram
 Click here to access [Jupyter Notebook](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
 )
 
