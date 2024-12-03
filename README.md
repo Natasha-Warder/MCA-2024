@@ -94,8 +94,20 @@ In generating a jSymbolic of my piece, I have selected a group of features that 
 #### Task 2 Generating a piano roll and a pitch histogram
 
 
+
+
+
 # Week 5: Standards in Curation
 ### Task 1 MEI Metadata Schema
+title, artist, publisher, and at least two others of your choice. 
+
+| All of The Lights Metdata| Specifications |
+| ------------- | ---------------------- | 
+| Title        | All of The Lights Interlude        |
+|  Artist      | Kanye West |
+| Publisher      | Musescore |
+| Lyricist       | Ayden Lake  |
+| Date Encoded   | 22.10.2024       |
 
 ### Task 2 Modifying MEI Metadata
 
@@ -113,6 +125,9 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
                          <pubStmt xml:id="ps1odls*>
  Updated encoding date:  <dateisodate="2024-10-22" type="encoding-date">2024-10-22</date>
                          </pubStmt>
+
+
+
 
 
 # Week 7: Challenges in Curation 
