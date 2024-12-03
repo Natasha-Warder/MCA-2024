@@ -99,8 +99,20 @@ In generating a jSymbolic of my piece, I have selected a group of features that 
 
 ### Task 2 Modifying MEI Metadata
 
+Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/)
 
+#### The following Metadata was updated
 
+The Title of the piece: <title>All Of The Lights Interlude </title>
+                        <respStmt>
+              Composer: <persName role="composer">Kanye West</persName>
+              Lyricist: <persName role="lyricist">Ayden Lake</persName>
+              Publisher: <persName role="publisher">Musescore</persName>
+                         </respStmt>
+                         </titleStmt>
+                         <pubStmt xml:id="ps1odls">
+ Updated encoding date:  <date isodate="2024-10-22" type="encoding-date">2024-10-22</date>
+                         </pubStmt>
 
 
 # Week 7: Challenges in Curation 
