@@ -118,7 +118,7 @@ Click here to access [Jupyter Notebook](https://gla-my.sharepoint.com/:x:/g/pers
 
 
 # Week 5: Standards in Curation
-### Task 1 MEI Metadata Schema
+## Task 1 - MEI Metadata Schema
 title, artist, publisher, and at least two others of your choice. 
 
 | All of The Lights Metdata| Specifications |
@@ -129,7 +129,7 @@ title, artist, publisher, and at least two others of your choice.
 | Lyricist       | Ayden Lake  |
 | Date Encoded   | 22.10.2024       |
 
-### Task 2 Modifying MEI Metadata
+## Task 2 - Modifying MEI Metadata
 
 Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/) using MEI Friend.
 
@@ -152,14 +152,14 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
 
 # Week 7: Challenges in Curation 
 
-### Updating MEI Elements
+## Task 1 - Updating MEI Elements
 
-
+## Task 2 - Revised MEI Metadata
 
 
 # Week 8: Music as Sound 
 
-### Task 1 
+## Task 1 - Audio tracks related to theme
 Important technical and non-technical metadata:
 
 | Title         | Drunk Piano            | Andante                | Our Own Melody        |
@@ -175,6 +175,11 @@ Important technical and non-technical metadata:
 | Bits/sec      | 1411kbps          | 1411kbps           | 1411kbps           |
 | Duration      | 1.57         | 5.35           | 3.06       |
 
+
+
+
+
+## Task 2 - Analysis using SonicVisualiser
 #### Drunk Piano
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
 
@@ -192,8 +197,6 @@ Spectrograms with log-spaced frequencies
 CSV FILES:
 <img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
 
-
-### Task 2
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
 
