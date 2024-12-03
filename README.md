@@ -57,11 +57,14 @@ During the group activity on tuesday, inaccuracies were found in performance met
   
 # Week 3: Encoding Basics for Notation
 
-### Comparing MusicXML and MEI elements 
+## Task 1 - Rendering MEI and MusiXML files
 
 Click here to access [MEI File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.mei)
 Click here to access [MusicXML File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.musicxml)
 
+
+
+## Task 2 - Comparing MusicXML and MEI elements 
 
 #### Note element
 for MusicXML the <note> element includes attributes like pitch, duration, type, and accidental. It is designed to represent musical notes, specifying pitch and rhythmic values clearly. Whereas, for MEI The <note> element in MEI is more flexible, using attributes like pname, oct, and dur. MEI also supports richer metadata for notational details.
@@ -74,21 +77,18 @@ for Music XML the measure element contains attributes and note elements, clearly
 
 
 #### Attributes Employed in Each Standard
-
 - Music XML Parent-Child Relationships Structure:
 part → measure → note
 measure can contain attributes, note, and other musical elements (like rest).
-
 - MEI Parent-Child Relationships Structure:
 staff → measure → note
 measure can contain attr, note, rest, and other elements.
 
 
 #### Implications of Differences 
-
 MusicXML Implications
 - Simplicity: MusicXML's straightforward structure makes it easy to parse and understand for developers and music notation software.
-- Limited Flexibility: While it covers basic musical notation well, it may struggle with more complex scenarios (like extended techniques, unconventional notations).
+- Limited Flexibility: While it covers basic musical notation well, it may struggle with more complex scenarios (like extended techniques, and unconventional notations).
 
 MEI Implications
 - Richness and Complexity: MEI's flexibility allows for detailed representations, including extended techniques, performance instructions, and complex musical structures.
@@ -99,16 +99,22 @@ MEI Implications
 # Week 4: Computational Analytics of Music Notation
 
 ### jSymbolic Analysis & Music21 Piano Roll and Histogram
-#### Task 1
+## Task 1
 In generating a jSymbolic of my piece, this displayed Range, Mean Pitch, Last Pitch and Most Common Rhythm Value: 
 
 Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
 )
 
-#### Task 2 Generating a piano roll and a pitch histogram
+## Task 2 Generating a piano roll and a pitch histogra
+Click here to access [Jupyter Notebook](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
+)
 
-  <img title="a title" alt="Alt text" src="/images/pianoroll.png">
-    <img title="a title" alt="Alt text" src="/images/histogram1.png">
+### The Piano Roll of pitches measures the pitch, length, and velocity of notes, seen below:
+  <img title="Piano Roll" alt="Plotted pitches" src="/images/pianoroll.png">
+
+  ### The Histogram, documents the distribution of a set of pitches from  the piano roll, seen below:
+ <img title="Histogram" alt="Documenting most and least used pitches" src="/images/histogram1.png">
+
 
 
 
