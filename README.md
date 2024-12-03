@@ -99,7 +99,7 @@ In generating a jSymbolic of my piece, I have selected a group of features that 
 
 ### Task 2 Modifying MEI Metadata
 
-Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/)
+Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/) using MEI Friend.
 
 #### The following Metadata was updated
 
