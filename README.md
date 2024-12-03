@@ -1,6 +1,9 @@
 # MCA Labs 2660237w
 # Week 1: Basics of Music Data
-###  Task 2 - Identifying a theme for your dataset
+##  Task 1 
+Cloning the MCA Github Repository.
+
+##  Task 2 - Identifying a theme for your dataset
 + Title: All of the lights (Interlude)
 - Producers: Kanye West
 * writers: Kanye West, Emile, Jeffrey Basker, Warren Trotter, Malik Jones
@@ -10,9 +13,7 @@
 + Time Period: 2009-10
 - Genre: HipHop / Rap
 
-
-### Task 3 - Challenges 
-
+## Task 3 - Challenges 
 1. Working With Music & Music-Related Data 
    - Access to Music-related data is common as digitised files require proper accreditation. Curating copyrighted music (audio files, sheet music) becomes more challenging as works may be harder to access.
    - Music data distribution can become inaccurate through secondary sources, therefore it is important to source metadata from reliable sources. 
@@ -28,11 +29,21 @@
    - As there is a lot of avaiable information for this dataset, it is important to ensure data is factually correct when utilising a scope of sources.
 
 
+
+
 # Week 2: Music as Notation
 
+## Task 1 - Selecting Music Related to Theme
 Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
-Evaluating transcription by the OMR engine: 
+## Task 2 - Convert to Musescore
+Downloaded PDF 
+
+## Task 3 - Editing on MuseScore
+Edited PDF 
+
+## Task 4 - Evaluating transcription by the OMR engine
+
 Dotted half notes had to be fixed as the computer mistook the shape of dots as artefacts. 
 The scale of the PDF is accurate, therefore poor photo quality did not impact machine ability to identify straight lines. 
 When playing the song, bar lines had to be adjusted as rests were misplaced, which created inaccuracies in rhythm. 
@@ -41,6 +52,8 @@ Elements remained fairly consistent as the piece does not specify expression or 
 During the group activity on tuesday, inaccuracies were found in performance methods. The piece is structured using a two staff format, whereas All of The Lights uses a bass clef for violin to accompany a treble clef and bass clef for piano. Although less instrumentation was notated, QMR engine completely removed vital information like fingerings, time signature, the composer and title. This was an unexpected outcome as accompaniment involves ensuring the cohesive nature accross different instruments. 
 
   <img title="a title" alt="Alt text" src="/images/interlude.png">
+
+  
   
 # Week 3: Encoding Basics for Notation
 
@@ -48,7 +61,6 @@ During the group activity on tuesday, inaccuracies were found in performance met
 
 Click here to access [MEI File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.mei)
 Click here to access [MusicXML File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.musicxml)
-
 
 
 #### Note element
