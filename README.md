@@ -1,5 +1,5 @@
 # MCA Labs 2660237w
-##  Week 1
+##  Week 1 Basics of Music Data
 ###  Task 2 - Identifying a theme for your dataset
 + Title: All of the lights (Interlude)
 - Producers: Kanye West
@@ -10,7 +10,6 @@
 + Time Period: 2009-10
 - Genre: HipHop / Rap
 
-  <img title="a title" alt="Alt text" src="/images/interlude.png">
 
 ### Task 3 - Challenges 
 
@@ -29,7 +28,7 @@
    - As there is a lot of avaiable information for this dataset, it is important to ensure data is factually correct when utilising a scope of sources.
 
 
-# Week 2
+# Week 2 Music as Notation
 
 Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
@@ -41,7 +40,8 @@ Elements remained fairly consistent as the piece does not specify expression or 
 
 During the group activity on tuesday, inaccuracies were found in performance methods. The piece is structured using a two staff format, whereas All of The Lights uses a bass clef for violin to accompany a treble clef and bass clef for piano. Although less instrumentation was notated, QMR engine completely removed vital information like fingerings, time signature, the composer and title. This was an unexpected outcome as accompaniment involves ensuring the cohesive nature accross different instruments. 
 
-
+  <img title="a title" alt="Alt text" src="/images/interlude.png">
+  
 # Week 3
 
 ### Comparing MusicXML and MEI elements 
