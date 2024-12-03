@@ -46,8 +46,7 @@ During the group activity on tuesday, inaccuracies were found in performance met
 
 ### Comparing MusicXML and MEI elements 
 
-## myLib documentation
-see documentation [here](tasks/All Of The Lights.MEI)
+Click here to access [MEI File](https://pages.github.com/).
 
 #### Note element
 for MusicXML the <note> element includes attributes like pitch, duration, type, and accidental. It is designed to represent musical notes, specifying pitch and rhythmic values clearly. Whereas, for MEI The <note> element in MEI is more flexible, using attributes like pname, oct, and dur. MEI also supports richer metadata for notational details.
