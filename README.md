@@ -87,13 +87,16 @@ MEI Implications
 # Week 4
 
 ### jSymbolic Analysis & Music21 Piano Roll and Histogram
+#### Task 1
+In generating a jSymbolic of my piece, I have selected a group of features that I believe can be interesting for my piece:
 
 
+#### Task 2 Generating a piano roll and a pitch histogram
 
 
 # Week 5
-
 ### MEI Metadata Schema
+
 
 # Week 7
 
