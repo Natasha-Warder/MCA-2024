@@ -95,7 +95,12 @@ In generating a jSymbolic of my piece, I have selected a group of features that 
 
 
 # Week 5: Standards in Curation
-### MEI Metadata Schema
+### Task 1 MEI Metadata Schema
+
+### Task 2 Modifying MEI Metadata
+
+
+
 
 
 # Week 7: Challenges in Curation 
