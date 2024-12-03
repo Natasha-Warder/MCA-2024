@@ -4,7 +4,7 @@
 Cloning the MCA Github Repository.
 
 ##  Task 2 - Identifying a theme for your dataset
-+ Title: All of the lights (Interlude)
++ Title: All of the lights
 - Producers: Kanye West
 * writers: Kanye West, Emile, Jeffrey Basker, Warren Trotter, Malik Jones
 + Performer: Kanye West
@@ -12,6 +12,7 @@ Cloning the MCA Github Repository.
 * Larger Work: samples; Expo'83 - The Backyard Heavies 1971, Mary Jane (Live) - Rick James 2001, Introduction to Star Time! - James Brown 1968
 + Time Period: 2009-10
 - Genre: HipHop / Rap
+Click here to access [All of The Lights Original Sheet Music](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/allofthelights.pdf)
 
 ## Task 3 - Challenges 
 1. Working With Music & Music-Related Data 
@@ -37,10 +38,11 @@ Cloning the MCA Github Repository.
 Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
 ## Task 2 - Convert to Musescore
-Downloaded PDF 
+Original PDF 
+<img title="a title" alt="Alt text" src="/images/interlude.png">
 
 ## Task 3 - Editing on MuseScore
-Edited PDF 
+Edited .mscz file Click here to access raw data of [.mscz File](https://github.com/Natasha-Warder/MCA-2024/blob/master/All%20Of%20The%20Lights.mscz)
 
 ## Task 4 - Evaluating transcription by the OMR engine
 
@@ -51,7 +53,6 @@ Elements remained fairly consistent as the piece does not specify expression or 
 
 During the group activity on tuesday, inaccuracies were found in performance methods. The piece is structured using a two staff format, whereas All of The Lights uses a bass clef for violin to accompany a treble clef and bass clef for piano. Although less instrumentation was notated, QMR engine completely removed vital information like fingerings, time signature, the composer and title. This was an unexpected outcome as accompaniment involves ensuring the cohesive nature accross different instruments. 
 
-  <img title="a title" alt="Alt text" src="/images/interlude.png">
 
   
   
@@ -105,7 +106,7 @@ Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w
 )
 
 ## Task 2 - Generating a piano roll and a pitch histogram
-Click here to access [Jupyter Notebook](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
+Click here to view [Jupyter Notebook](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/Intro%20to%20music21.ipynb
 )
 
 ### The Piano Roll of pitches measures the pitch, length, and velocity of notes, seen below:
@@ -131,7 +132,7 @@ title, artist, publisher, and at least two others of your choice.
 
 ## Task 2 - Modifying MEI Metadata
 
-Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/) using MEI Friend.
+Click here to access the updated [MEI File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights%20(5).mei) using MEI Friend.
 
 #### The following Metadata was updated
 
