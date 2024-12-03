@@ -47,7 +47,8 @@ During the group activity on tuesday, inaccuracies were found in performance met
 ### Comparing MusicXML and MEI elements 
 
 Click here to access [MEI File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.mei)
-Click here to access [MusicXML File] 
+Click here to access [MusicXML File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.musicxml)
+
 
 
 #### Note element
