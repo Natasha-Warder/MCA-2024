@@ -88,8 +88,10 @@ MEI Implications
 
 ### jSymbolic Analysis & Music21 Piano Roll and Histogram
 #### Task 1
-In generating a jSymbolic of my piece, I have selected a group of features that I believe can be interesting for my piece:
+In generating a jSymbolic of my piece, this displayed Range, Mean Pitch, Last Pitch and Most Common Rhythm Value: 
 
+Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
+)
 
 #### Task 2 Generating a piano roll and a pitch histogram
 
