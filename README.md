@@ -1,5 +1,5 @@
 # MCA Labs 2660237w
-##  Week 1 Basics of Music Data
+# Week 1: Basics of Music Data
 ###  Task 2 - Identifying a theme for your dataset
 + Title: All of the lights (Interlude)
 - Producers: Kanye West
@@ -28,7 +28,7 @@
    - As there is a lot of avaiable information for this dataset, it is important to ensure data is factually correct when utilising a scope of sources.
 
 
-# Week 2 Music as Notation
+# Week 2: Music as Notation
 
 Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
@@ -42,7 +42,7 @@ During the group activity on tuesday, inaccuracies were found in performance met
 
   <img title="a title" alt="Alt text" src="/images/interlude.png">
   
-# Week 3
+# Week 3: Encoding Basics for Notation
 
 ### Comparing MusicXML and MEI elements 
 
@@ -84,7 +84,7 @@ MEI Implications
 
 
 
-# Week 4
+# Week 4: Computational Analytics of Music Notation
 
 ### jSymbolic Analysis & Music21 Piano Roll and Histogram
 #### Task 1
@@ -94,18 +94,18 @@ In generating a jSymbolic of my piece, I have selected a group of features that 
 #### Task 2 Generating a piano roll and a pitch histogram
 
 
-# Week 5
+# Week 5: Standards in Curation
 ### MEI Metadata Schema
 
 
-# Week 7
+# Week 7: Challenges in Curation 
 
 ### Updating MEI Elements
 
 
 
 
-# Week 8
+# Week 8: Music as Sound 
 
 ### Task 1 
 Important technical and non-technical metadata:
@@ -145,7 +145,7 @@ CSV FILES:
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
 
-# Week 9
+# Week 9: Analysing and Extracting Audio from Data
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
 The Track 'All of The Lights Interlude' was split into three sections beginning, middle and end of the interlude for this exercise. 
@@ -154,3 +154,6 @@ The Track 'All of The Lights Interlude' was split into three sections beginning,
 
 ### Task 2 - Compute and Visualise Features with Histograms
 For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
+
+
+# Week 10: Audio Similarity and Transcription 
