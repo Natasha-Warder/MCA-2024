@@ -5,11 +5,10 @@
     <work-title>All Of The Lights</work-title>
     </work>
   <identification>
-    <creator type="composer">Kanye West</creator>
-    <creator type="lyricist">Ayden Lake</creator>
+    <creator type="artist">Kanye West</creator>
     <encoding>
       <software>MuseScore 4.4.2</software>
-      <encoding-date>2024-10-22</encoding-date>
+      <encoding-date>2024-09-18</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
