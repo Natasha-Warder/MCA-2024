@@ -105,13 +105,13 @@ Click here to access the updated [MEI File](https://mei-friend.mdw.ac.at/)
 
 The Title of the piece: <title>All Of The Lights Interlude </title>
                         <respStmt>
-              Composer: <persName role="composer">Kanye West</persName>
-              Lyricist: <persName role="lyricist">Ayden Lake</persName>
-              Publisher: <persName role="publisher">Musescore</persName>
+              Composer: <persNamerole="composer">Kanye West</persName>
+              Lyricist: <persNamerole="lyricist">Ayden Lake</persName>
+              Publisher: <persNamerole="publisher">Musescore</persName>
                          </respStmt>
                          </titleStmt>
-                         <pubStmt xml:id="ps1odls">
- Updated encoding date:  <date isodate="2024-10-22" type="encoding-date">2024-10-22</date>
+                         <pubStmt xml:id="ps1odls*>
+ Updated encoding date:  <dateisodate="2024-10-22" type="encoding-date">2024-10-22</date>
                          </pubStmt>
 
 
