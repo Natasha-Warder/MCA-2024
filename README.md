@@ -196,12 +196,14 @@ Important technical and non-technical metadata:
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
 
 Spectrograms with log-spaced frequencies 
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpianocsv.png)
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andantecsv.png)
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melodycsv.png)
+<img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
+
+<img title="a title" alt="Alt text" src="/images/andantecsv.png">
+
+<img title="a title" alt="Alt text" src="/images/melodycsv.png">
 
 CSV FILES:
-<img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
+
 
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
