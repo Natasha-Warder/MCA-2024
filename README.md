@@ -188,23 +188,23 @@ Important technical and non-technical metadata:
 ## Task 2 - Analysis using SonicVisualiser
 ### Rendering Spectograms
 #### Drunk Piano
-(https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
+
 
 The following images show wavforms (1st layer) and spectograms per audio track (2nd layer) with log spcace frequencies that have been extracted as CSV files. 
 
-<img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
+<img title="a title" alt="Alt text" src="/images/drunkpiano.png">
 
 #### Andante
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
 
-<img title="a title" alt="Alt text" src="/images/andantecsv.png">
+<img title="a title" alt="Alt text" src="/images/andante.png">
 
 #### Our Own Melody
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
 
 Spectrograms with log-spaced frequencies 
 
-<img title="a title" alt="Alt text" src="/images/melodycsv.png">
+<img title="a title" alt="Alt text" src="/images/melody.png">
 
 
 
