@@ -176,8 +176,8 @@ Important technical and non-technical metadata:
 | Genre         | Electronic, Experimental, Downtempo | Jazz, soul, RnB | Minimalism, soul |
 | Source        | Free Music Archive | Free Music Archive | Free Music Archive |
 | File format   | VLC.wav | VLC.wav | VLC.wav |
-| Channels      | Content Cell          | Content Cell           | Content Cell          |
-| Sample Rate   | Content Cell          | Content Cell           | Content Cell          |
+| Channels      | 2          | 2       | 2    |
+| Sample Rate   | 44100Hz          | 44100Hz         | 44100Hz-        |
 | Bits/sec      | 1411kbps          | 1411kbps           | 1411kbps           |
 | Duration      | 1.57         | 5.35           | 3.06       |
 
