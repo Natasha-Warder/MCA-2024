@@ -190,7 +190,7 @@ Important technical and non-technical metadata:
 #### Drunk Piano
 
 
-The following images show wavforms (1st layer) and spectograms per audio track (2nd layer) with log spcace frequencies that have been extracted as CSV files. 
+The following images show waveforms (1st layer) and spectograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
 
 <img title="a title" alt="Alt text" src="/images/drunkpiano.png">
 
