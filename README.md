@@ -190,18 +190,21 @@ Important technical and non-technical metadata:
 #### Drunk Piano
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
 
+<img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
+
 #### Andante
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/andante.png)
+
+<img title="a title" alt="Alt text" src="/images/andantecsv.png">
 
 #### Our Own Melody
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/melody.png)
 
 Spectrograms with log-spaced frequencies 
-<img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
-
-<img title="a title" alt="Alt text" src="/images/andantecsv.png">
 
 <img title="a title" alt="Alt text" src="/images/melodycsv.png">
+
+
 
 ### CSV Files 
 link to folder with csv
