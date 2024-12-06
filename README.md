@@ -209,7 +209,7 @@ Spectrograms with log-spaced frequencies
 
 
 ### CSV Files 
-link to folder with csv
+link to folder with [csv files](https://gla-my.sharepoint.com/my?id=%2Fpersonal%2F2660237w%5Fstudent%5Fgla%5Fac%5Fuk%2FDocuments%2FMA%20FILES%2FWEEK%208%20CSV&ct=1733493944870&or=OWA%2DNT%2DMail&cid=b413a9ec%2D575d%2D96a1%2Df8c7%2Daed9b6efa1e1&ga=1)
 
 
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
