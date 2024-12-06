@@ -186,6 +186,7 @@ Important technical and non-technical metadata:
 
 
 ## Task 2 - Analysis using SonicVisualiser
+### Rendering Spectograms
 #### Drunk Piano
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
 
@@ -202,7 +203,8 @@ Spectrograms with log-spaced frequencies
 
 <img title="a title" alt="Alt text" src="/images/melodycsv.png">
 
-CSV FILES:
+### CSV Files 
+link to folder with csv
 
 
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
