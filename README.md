@@ -190,7 +190,7 @@ Important technical and non-technical metadata:
 #### Drunk Piano
 (https://github.com/Natasha-Warder/MCA-2024/blob/master/images/drunkpiano.png)
 
-The following images show spectograms per audio track (2nd layer) with log spcace frequencies that have been extracted as CSV files. 
+The following images show wavforms (1st layer) and spectograms per audio track (2nd layer) with log spcace frequencies that have been extracted as CSV files. 
 
 <img title="a title" alt="Alt text" src="/images/drunkpianocsv.png">
 
