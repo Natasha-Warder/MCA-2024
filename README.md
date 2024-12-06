@@ -218,9 +218,13 @@ Time-frequency analysis has an advantage over waveform-based analysis by providi
 # Week 9: Analysing and Extracting Audio from Data
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
-The Track 'All of The Lights Interlude' was split into three sections beginning, middle and end of the interlude for this exercise. 
+The Track 'All of The Lights Interlude' was split into three 15 second sections beginning, middle and end of the interlude for this exercise. 
 
+<img title="a title" alt="Alt text" src="/images/aotl1.png">
 
+<img title="a title" alt="Alt text" src="/images/aotl2.png">
+
+<img title="a title" alt="Alt text" src="/images/aotl3.png">
 
 ### Task 2 - Compute and Visualise Features with Histograms
 For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
