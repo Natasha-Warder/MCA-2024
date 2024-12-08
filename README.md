@@ -61,7 +61,7 @@ During the group activity on tuesday, inaccuracies were found in performance met
 
   
   
-# Week 3: Encoding Basics for Notation
+# Week 3: Encoding Basics for Notation 
 
 ## Task 1 - Rendering MEI and MusiXML files
 
