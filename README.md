@@ -68,6 +68,8 @@ During the group activity on tuesday, inaccuracies were found in performance met
 Click here to access (view raw to open in MuseScore) [MEI File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.mei)
 Click here to access [MusicXML File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.musicxml)
 
+# All of The Lights Interlude in Verovio
+<img title="a title" alt="Alt text" src="/images/verovio.png">
 
 
 ## Task 2 - Comparing MusicXML and MEI elements 
@@ -153,7 +155,7 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
                          </pubStmt>
 
 
-
+<img title="a title" alt="Alt text" src="/images/meifriend.png">
 
 
 # Week 7: Challenges in Curation 
