@@ -237,6 +237,8 @@ The sections beginning, middle and end (presented left to right) were transforme
 
 ## Histograms Computed From Chromagrams
 <img title="a title" alt="Alt text" src="/images/chrom hist.png">
-# Week 10: Audio Similarity and Transcription 
 
 ## Comparison of Histograms
+
+
+# Week 10: Audio Similarity and Transcription 
