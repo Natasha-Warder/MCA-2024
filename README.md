@@ -229,5 +229,9 @@ The Track 'All of The Lights Interlude' was split into three 15 second sections 
 ### Task 2 - Compute and Visualise Features with Histograms
 For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
 
+<img title="a title" alt="Alt text" src="/images/spect hist.png">
 
+<img title="a title" alt="Alt text" src="/images/mel hist.png">
+
+<img title="a title" alt="Alt text" src="/images/chrom hist.png">
 # Week 10: Audio Similarity and Transcription 
