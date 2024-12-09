@@ -124,6 +124,9 @@ This metadata was then used in Python to generate a piano roll and pitch histogr
 Click here to view [Jupyter Notebook](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/Intro%20to%20music21.ipynb
 )
 
+The audio has a broad pitch range of 41 semitones, with a central focus around F (pitch class 5) and an average pitch of C#4 (61.66). The rhythm is predominantly structured around quarter notes, indicating a moderate tempo. The final pitch, A♭3, may indicate a sense of resolution or closure, with the music potentially ending in a stable tonal context.
+
+
 ### The Piano Roll of pitches measures the pitch, length, and velocity of notes, seen below:
   <img title="Piano Roll" alt="Plotted pitches" src="/images/pianoroll.png">
 
