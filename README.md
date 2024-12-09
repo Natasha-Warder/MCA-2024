@@ -175,19 +175,23 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
 
 ## Task 1 - Updating MEI Elements
 
-
+The following MEI Elements were updated:
  <publisher>Universal Music Group</publisher>
-            <availability> 
-            <useRestrict>"https://creativecommons.org/licenses/by/4.0/"</useRestrict>
-            </availability>
-         </pubStmt>https://mei-friend.mdw.ac.at/#
-         <notesStmt>
-         <annot> Genres: Hip Hop, Classical Piano, Classical Alternative</annot></notesStmt>
-      </fileDesc>
-why i change specific elements
+ <availability><useRestrict>"https://creativecommons.org/licenses/by/4.0/"</useRestrict></availability>
+  </pubStmt>https://mei-friend.mdw.ac.at/#<notesStmt>
+ <annot> Genres: Hip Hop, Classical Piano, Classical Alternative</annot></notesStmt>
+   </fileDesc>
+   
+The publisher Universal Music Group was included to establish ownership of audio. 
+The Creative Commons license CC BY 4.0, Attribution 4.0 International emphasises the materials published are able to be shared and adapted when properly credited. 
+The notes statement which specifies genre emphasises the piece incorporates different classical styles. 
+   
+
 
 ## Task 2 - Revised MEI Metadata
 <img title="a title" alt="Alt text" src="/images/updatemeifriend.png">
+
+To improve the appearance of metadata I have formatted it with clear indentation and correctly closed tags. To ensure the useRestrict tag is correctly placed within the availability tag and to maintain consistency, this requires clearer naming conventions for better comprehension.
 
 # Week 8: Music as Sound 
 
