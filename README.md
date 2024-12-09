@@ -113,7 +113,7 @@ Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w
 )
 <img title="a title" alt="Alt text" src="/images/jsymbolic values.png">
 
-
+This metadata was then used in Python to generate a piano roll and pitch histogram.
 
 ## Task 2 - Generating a piano roll and a pitch histogram
 Click here to view [Jupyter Notebook](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/Intro%20to%20music21.ipynb
