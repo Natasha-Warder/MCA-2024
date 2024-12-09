@@ -44,7 +44,7 @@ Selected Piece: All Of The Lights: Interlude (My Beautiful Dark Twisted Fantasy)
 
 ## Task 2 - Convert to Musescore
 Original PDF 
-<img title="a title" alt="Alt text" src="/images/interlude.png">
+<img title="a title" alt="Alt text" src="images/interlude.png">
 
 ## Task 3 - Editing on MuseScore
 Edited .mscz file Click here to access [.mscz File](https://github.com/Natasha-Warder/MCA-2024/blob/master/All%20Of%20The%20Lights.mscz)
