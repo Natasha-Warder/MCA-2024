@@ -162,8 +162,19 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
 
 ## Task 1 - Updating MEI Elements
 
-## Task 2 - Revised MEI Metadata
 
+ <publisher>Universal Music Group</publisher>
+            <availability> 
+            <useRestrict>"https://creativecommons.org/licenses/by/4.0/"</useRestrict>
+            </availability>
+         </pubStmt>https://mei-friend.mdw.ac.at/#
+         <notesStmt>
+         <annot> Genres: Hip Hop, Classical Piano, Classical Alternative</annot></notesStmt>
+      </fileDesc>
+why i change specific elements
+
+## Task 2 - Revised MEI Metadata
+<img title="a title" alt="Alt text" src="/images/updatemeifriend.png">
 
 # Week 8: Music as Sound 
 
