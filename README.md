@@ -250,10 +250,8 @@ The sections beginning, middle and end (presented left to right) were transforme
 
 
 ### Task 2 - Transcription
-wav and image file export 
 
-transcribe using sonic visualiser 
 
-midi file in musescore and image export
+<img title="a title" alt="Alt text" src="/images/week 10 task 2.png">
 
 compare the transcription (under 200 words) reflect on accuracy and identify missing information 
