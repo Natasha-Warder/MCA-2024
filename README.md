@@ -244,3 +244,15 @@ The sections beginning, middle and end (presented left to right) were transforme
 
 
 # Week 10: Audio Similarity and Transcription 
+### Task 1 - Similarity, generating a similarity matrix 
+3 audios from week 9, using week 10 python notebook 
+
+
+### Task 2 - Transcription
+wav and image file export 
+
+transcribe using sonic visualiser 
+
+midi file in musescore and image export
+
+compare the transcription (under 200 words) reflect on accuracy and identify missing information 
