@@ -178,11 +178,11 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
 ## Task 1 - Updating MEI Elements
 
 The following MEI Elements were updated:
- <publisher>Universal Music Group</publisher>
- <availability><useRestrict>"https://creativecommons.org/licenses/by/4.0/"</useRestrict></availability>
-  </pubStmt>https://mei-friend.mdw.ac.at/#<notesStmt>
- <annot> Genres: Hip Hop, Classical Piano, Classical Alternative</annot></notesStmt>
-   </fileDesc>
+ .<publisher>Universal Music Group</publisher>
+ .<availability><useRestrict>"https://creativecommons.org/licenses/by/4.0/"</useRestrict></availability>
+  .</pubStmt>https://mei-friend.mdw.ac.at/#<notesStmt>
+ .<annot> Genres: Hip Hop, Classical Piano, Classical Alternative</annot></notesStmt>
+   .</fileDesc>
    
 The publisher Universal Music Group was included to establish ownership of audio. 
 The Creative Commons license CC BY 4.0, Attribution 4.0 International emphasises the materials published can be shared and adapted when properly credited. 
