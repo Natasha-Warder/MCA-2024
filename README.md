@@ -128,10 +128,10 @@ The audio has a broad pitch range of 41 semitones, with a central focus around F
 
 
 ### The Piano Roll of pitches measures the pitch, length, and velocity of notes, seen below:
-  <img title="Piano Roll" alt="Plotted pitches" src="/images/pianoroll.png">
+  <img title="Piano Roll" alt="Plotted pitches" src="images/pianoroll.png">
 
   ### The Histogram, documents the distribution of a set of pitches from  the piano roll, seen below:
- <img title="Histogram" alt="Documenting most and least used pitches" src="/images/histogram1.png">
+ <img title="Histogram" alt="Documenting most and least used pitches" src="images/histogram1.png">
 
 - A histogram based on the piano roll shows the distribution of pitches, with a higher frequency around F (pitch class 5), reflecting its prominence in the audio.
 - It illustrates the 41-semitone pitch range, showing the spread from the lowest to the highest pitch.
@@ -168,7 +168,7 @@ The Title of the piece: <title>All Of The Lights Interlude </title>
                          </pubStmt>
 
 
-<img title="a title" alt="Alt text" src="/images/meifriend.png">
+<img title="a title" alt="Alt text" src="images/meifriend.png">
 
 
 # Week 7: Challenges in Curation 
@@ -183,13 +183,13 @@ The following MEI Elements were updated:
    </fileDesc>
    
 The publisher Universal Music Group was included to establish ownership of audio. 
-The Creative Commons license CC BY 4.0, Attribution 4.0 International emphasises the materials published are able to be shared and adapted when properly credited. 
+The Creative Commons license CC BY 4.0, Attribution 4.0 International emphasises the materials published can be shared and adapted when properly credited. 
 The notes statement which specifies genre emphasises the piece incorporates different classical styles. 
    
 
 
 ## Task 2 - Revised MEI Metadata
-<img title="a title" alt="Alt text" src="/images/updatemeifriend.png">
+<img title="a title" alt="Alt text" src="images/updatemeifriend.png">
 
 To improve the appearance of metadata I have formatted it with clear indentation and correctly closed tags. To ensure the useRestrict tag is correctly placed within the availability tag and to maintain consistency, clearer naming conventions are required for better comprehension.
 
@@ -222,13 +222,13 @@ Important technical and non-technical metadata:
 The following images show waveforms (1st layer) and spectrograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
 
 ### Drunk Piano 
-<img title="a title" alt="Alt text" src="/images/drunkpianoweek8.png">
+<img title="a title" alt="Alt text" src="images/drunkpianoweek8.png">
 
 ### Andante
-<img title="a title" alt="Alt text" src="/images/andanteweek8.png">
+<img title="a title" alt="Alt text" src="images/andanteweek8.png">
 
 ### Our Own Melody
-<img title="a title" alt="Alt text" src="/images/ourownmelodyweek8.png">
+<img title="a title" alt="Alt text" src="images/ourownmelodyweek8.png">
 
 
 Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
@@ -247,15 +247,15 @@ The Track 'All of The Lights Interlude' was split into three 15 second sections 
 
 ### Beginning Segment 
 Panes top to bottom are: Chromagram then Spectrogram then MFCC then the audio Waveform
-<img title="a title" alt="Alt text" src="/images/aotl1.png">
+<img title="a title" alt="Alt text" src="images/aotl1.png">
 
 ### Middle Segment 
 Panes top to bottom are: Chromagram then Spectrogram then MFCC then the audio Waveform
-<img title="a title" alt="Alt text" src="/images/aotl2.png">
+<img title="a title" alt="Alt text" src="images/aotl2.png">
 
 ### End Segment 
 Panes top to bottom are: MFCC then Spectrogram then Chromagram then audio Waveform
-<img title="a title" alt="Alt text" src="/images/aotl3.png">
+<img title="a title" alt="Alt text" src="images/aotl3.png">
 
 
 
@@ -264,15 +264,15 @@ The sections beginning, middle and end (presented left to right) were transforme
 
 ## Histograms Computed From Spectrograms
 By transforming Spectrograms into Histograms this shows a more limtied distribution of frequences and their intensities over time than anticipated. 
-<img title="a title" alt="Alt text" src="/images/spect hist.png">
+<img title="a title" alt="Alt text" src="images/spect hist.png">
 
 ## Histograms Computed From MFCCs
 The ability to view the distribution of energy across different frequency bands emphasises how sound is being heard.
-<img title="a title" alt="Alt text" src="/images/mel hist.png">
+<img title="a title" alt="Alt text" src="images/mel hist.png">
 
 ## Histograms Computed From Chromagrams
 The distribution of pitch classes: C,D,E etc., highlights the occurence of different pitches and chords helping to visualise harmonic content. 
-<img title="a title" alt="Alt text" src="/images/chrom hist.png">
+<img title="a title" alt="Alt text" src="images/chrom hist.png">
 
 ## Comparison of Histograms
 Histograms highlight the interlude is a cohesive piece which remains fairly similar from start to finish as it functions as a bridge. This similarity was expected due to the function of the audio being transitional within a larger piece of music (All of The Lights). 
@@ -282,10 +282,10 @@ Histograms highlight the interlude is a cohesive piece which remains fairly simi
 
 Using the Python Notebook a similarity matrix (left) of the beginning, middle and end of the interlude. All tracks were identified as classical pieces and the symmetry of darker cool tones in the similarity matrix emphasises the consistency of violin and piano across the piece. 
 
-<img title="a title" alt="Alt text" src="/images/week 10 task 1.png">
+<img title="a title" alt="Alt text" src="images/week 10 task 1.png">
 
 
 ### Task 2 - Transcription
 For this task I transcribed the week two All Of The Lights Interlude file (left) intially generated using MuseScore. By exporting this file to a WAV file and transcribing it in SonicVisualiser a new MIDI file (right) was generated of the original piece. The Transcription is extremely inaccurate by include a multitude of slurs and legato lines this would greatly impact the fluidity of the piece in performance and make notes less distinct, also 3 by 4 beats are introduced changing the timing of the piece, placement of notes are wrong and rests are inserted in random places. 
 
-<img title="a title" alt="Alt text" src="/images/week 10 task 2.png">
+<img title="a title" alt="Alt text" src="images/week 10 task 2.png">
