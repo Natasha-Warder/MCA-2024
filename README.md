@@ -242,13 +242,22 @@ link to folder with [csv files](https://gla-my.sharepoint.com/my?id=%2Fpersonal%
 # Week 9: Analysing and Extracting Audio from Data
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
-The Track 'All of The Lights Interlude' was split into three 15 second sections beginning, middle and end (presented top to bottom) of the interlude for this exercise. 
+The Track 'All of The Lights Interlude' was split into three 15 second sections beginning, middle and end (presented top to bottom) of the interlude for this exercise. The images below feature a Spectrogram, one a Mel Frequency Cepstral Coefficients, and a Chromagram for each segment of the interlude. 
 
+
+### Beginning Segment 
+Panes top to bottom are:
 <img title="a title" alt="Alt text" src="/images/aotl1.png">
 
+### Middle Segment 
+Panes top to bottom are:
 <img title="a title" alt="Alt text" src="/images/aotl2.png">
 
+### End Segment 
+Panes top to bottom are:
 <img title="a title" alt="Alt text" src="/images/aotl3.png">
+
+
 
 ### Task 2 - Compute and Visualise Features with Histograms
 The sections beginning, middle and end (presented left to right) were transformed into Histograms. 
