@@ -111,6 +111,9 @@ In generating a jSymbolic of my piece, this displayed Range, Mean Pitch, Last Pi
 
 Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
 )
+<img title="a title" alt="Alt text" src="/images/jsymbolic values.png">
+
+
 
 ## Task 2 - Generating a piano roll and a pitch histogram
 Click here to view [Jupyter Notebook](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/Intro%20to%20music21.ipynb
