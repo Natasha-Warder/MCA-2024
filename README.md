@@ -218,8 +218,8 @@ Important technical and non-technical metadata:
 
 
 ## Task 2 - Analysis using SonicVisualiser
-### Rendering Spectograms
-The following images show waveforms (1st layer) and spectograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
+### Rendering Spectrograms
+The following images show waveforms (1st layer) and spectrograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
 
 ### Drunk Piano 
 <img title="a title" alt="Alt text" src="/images/drunkpianoweek8.png">
@@ -242,7 +242,7 @@ link to folder with [csv files](https://gla-my.sharepoint.com/my?id=%2Fpersonal%
 # Week 9: Analysing and Extracting Audio from Data
 ## Extracting Data From Audio
 ### Task 1 - Extracting Features
-The Track 'All of The Lights Interlude' was split into three 15 second sections beginning, middle and end (presented top to bottom) of the interlude for this exercise. The images below feature a Spectrogram, one a Mel Frequency Cepstral Coefficients, and a Chromagram for each segment of the interlude. 
+The Track 'All of The Lights Interlude' was split into three 15 second sections beginning, middle and end (presented top to bottom) of the interlude for this exercise. The images below feature a Spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram for each segment of the interlude. 
 
 
 ### Beginning Segment 
@@ -262,17 +262,20 @@ Panes top to bottom are: MFCC then Spectrogram then Chromagram then audio Wavefo
 ### Task 2 - Compute and Visualise Features with Histograms
 The sections beginning, middle and end (presented left to right) were transformed into Histograms. 
 
-## Histograms Computed From Spectograms
+## Histograms Computed From Spectrograms
+By transforming Spectrograms into Histograms this shows a more limtied distribution of frequences and their intensities over time than anticipated. 
 <img title="a title" alt="Alt text" src="/images/spect hist.png">
 
 ## Histograms Computed From MFCCs
+The ability to view the distribution of energy across different frequency bands emphasises how sound is being heard.
 <img title="a title" alt="Alt text" src="/images/mel hist.png">
 
 ## Histograms Computed From Chromagrams
+The distribution of pitch classes: C,D,E etc., highlights the occurence of different pitches and chords helping to visualise harmonic content. 
 <img title="a title" alt="Alt text" src="/images/chrom hist.png">
 
 ## Comparison of Histograms
-
+Histograms hihglight the interlude is a cohesive piece which remains fairly similar from start to finish as it functions as a bridge. This similarity was expected due to the function of the audio being transitional within a larger piece of music (All of The Lights). 
 
 # Week 10: Audio Similarity and Transcription 
 ### Task 1 - Similarity, generating a similarity matrix 
