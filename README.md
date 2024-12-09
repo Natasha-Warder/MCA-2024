@@ -246,15 +246,15 @@ The Track 'All of The Lights Interlude' was split into three 15 second sections 
 
 
 ### Beginning Segment 
-Panes top to bottom are:
+Panes top to bottom are: Chromagram then Spectrogram then MFCC then the audio Waveform
 <img title="a title" alt="Alt text" src="/images/aotl1.png">
 
 ### Middle Segment 
-Panes top to bottom are:
+Panes top to bottom are: Chromagram then Spectrogram then MFCC then the audio Waveform
 <img title="a title" alt="Alt text" src="/images/aotl2.png">
 
 ### End Segment 
-Panes top to bottom are:
+Panes top to bottom are: MFCC then Spectrogram then Chromagram then audio Waveform
 <img title="a title" alt="Alt text" src="/images/aotl3.png">
 
 
