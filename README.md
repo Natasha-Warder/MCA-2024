@@ -112,9 +112,11 @@ In generating a jSymbolic of my piece, this displayed Range, Mean Pitch, Last Pi
 Click here to access [CSV](https://gla-my.sharepoint.com/:x:/g/personal/2660237w_student_gla_ac_uk/ETfVh-M5mLZFieKaiBAY_70Bsck6uImZJC8uzZxk_JUgjg?e=UGzkkF
 )
 
-Range: 
-Mean Pitch:
-Last Pitch
+1. Range: 41
+2. Mean Pitch: 61.66
+3. Most Common Pitch Class: 5
+4. Last Pitch: 46
+5. Most Common Rhythm Value: 0.25
 
 This metadata was then used in Python to generate a piano roll and pitch histogram.
 
