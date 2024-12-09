@@ -69,7 +69,7 @@ Click here to access (view raw to open in MuseScore) [MEI File](https://github.c
 Click here to access [MusicXML File](https://github.com/Natasha-Warder/MCA-2024/blob/master/tasks/All%20Of%20The%20Lights.musicxml)
 
 # All of The Lights Interlude in Verovio
-<img title="a title" alt="Alt text" src="/images/verovio.png">
+<img title="a title" alt="Alt text" src="images/verovio.png">
 
 
 ## Task 2 - Comparing MusicXML and MEI elements 
