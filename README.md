@@ -275,7 +275,7 @@ The distribution of pitch classes: C,D,E etc., highlights the occurence of diffe
 <img title="a title" alt="Alt text" src="/images/chrom hist.png">
 
 ## Comparison of Histograms
-Histograms hihglight the interlude is a cohesive piece which remains fairly similar from start to finish as it functions as a bridge. This similarity was expected due to the function of the audio being transitional within a larger piece of music (All of The Lights). 
+Histograms highlight the interlude is a cohesive piece which remains fairly similar from start to finish as it functions as a bridge. This similarity was expected due to the function of the audio being transitional within a larger piece of music (All of The Lights). 
 
 # Week 10: Audio Similarity and Transcription 
 ### Task 1 - Similarity, generating a similarity matrix 
