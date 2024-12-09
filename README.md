@@ -133,7 +133,9 @@ The audio has a broad pitch range of 41 semitones, with a central focus around F
   ### The Histogram, documents the distribution of a set of pitches from  the piano roll, seen below:
  <img title="Histogram" alt="Documenting most and least used pitches" src="/images/histogram1.png">
 
-
+- A histogram based on the piano roll shows the distribution of pitches, with a higher frequency around F (pitch class 5), reflecting its prominence in the audio.
+- It illustrates the 41-semitone pitch range, showing the spread from the lowest to the highest pitch.
+- Rhythmic values highlight quarter notes (0.25) as the most frequent rhythmic value (emphasising a steady tempo).
 
 
 # Week 5: Standards in Curation
