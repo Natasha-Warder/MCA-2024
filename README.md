@@ -280,12 +280,12 @@ Histograms highlight the interlude is a cohesive piece which remains fairly simi
 # Week 10: Audio Similarity and Transcription 
 ### Task 1 - Similarity, generating a similarity matrix 
 
+Using the Python Notebook a similarity matrix (left) of the beginning, middle and end of the interlude. All tracks were identified as classical pieces and the symmetry of darker cool tones in the similarity matrix emphasises the consistency of violin and piano across the piece. 
+
 <img title="a title" alt="Alt text" src="/images/week 10 task 1.png">
 
 
 ### Task 2 - Transcription
-
+For this task I transcribed the week two All Of The Lights Interlude file (left) intially generated using MuseScore. By exporting this file to a WAV file and transcribing it in SonicVisualiser a new MIDI file (right) was generated of the original piece. The Transcription is extremely inaccurate by include a multitude of slurs and legato lines this would greatly impact the fluidity of the piece in performance and make notes less distinct, also 3 by 4 beats are introduced changing the timing of the piece, placement of notes are wrong and rests are inserted in random places. 
 
 <img title="a title" alt="Alt text" src="/images/week 10 task 2.png">
-
-compare the transcription (under 200 words) reflect on accuracy and identify missing information 
