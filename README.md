@@ -191,16 +191,8 @@ Important technical and non-technical metadata:
 ### Rendering Spectograms
 The following images show waveforms (1st layer) and spectograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
 
-#### Drunk Piano
 
-
-
-#### Andante
-
-
-#### Our Own Melody
-
-
+<img title="a title" alt="Alt text" src="/images/week 8 task 2.png">
 
 
 
