@@ -245,7 +245,8 @@ The sections beginning, middle and end (presented left to right) were transforme
 
 # Week 10: Audio Similarity and Transcription 
 ### Task 1 - Similarity, generating a similarity matrix 
-3 audios from week 9, using week 10 python notebook 
+
+<img title="a title" alt="Alt text" src="/images/week 10 task 1.png">
 
 
 ### Task 2 - Transcription
