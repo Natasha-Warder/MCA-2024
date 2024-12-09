@@ -191,11 +191,13 @@ The notes statement which specifies genre emphasises the piece incorporates diff
 ## Task 2 - Revised MEI Metadata
 <img title="a title" alt="Alt text" src="/images/updatemeifriend.png">
 
-To improve the appearance of metadata I have formatted it with clear indentation and correctly closed tags. To ensure the useRestrict tag is correctly placed within the availability tag and to maintain consistency, this requires clearer naming conventions for better comprehension.
+To improve the appearance of metadata I have formatted it with clear indentation and correctly closed tags. To ensure the useRestrict tag is correctly placed within the availability tag and to maintain consistency, clearer naming conventions are required for better comprehension.
 
 # Week 8: Music as Sound 
 
 ## Task 1 - Audio tracks related to theme
+Three alternative classical piano audio tracks were downloaded using FMA (Free Music Archive):
+
 Important technical and non-technical metadata:
 
 | Title         | Drunk Piano            | Andante                | Our Own Melody        |
@@ -219,20 +221,22 @@ Important technical and non-technical metadata:
 ### Rendering Spectograms
 The following images show waveforms (1st layer) and spectograms per audio track (2nd layer) with log space frequencies that have been extracted as CSV files. 
 
-
+### Drunk Piano 
 <img title="a title" alt="Alt text" src="/images/drunkpianoweek8.png">
 
+### Andante
 <img title="a title" alt="Alt text" src="/images/andanteweek8.png">
 
+### Our Own Melody
 <img title="a title" alt="Alt text" src="/images/ourownmelodyweek8.png">
 
+
+Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
 
 ### CSV Files 
 link to folder with [csv files](https://gla-my.sharepoint.com/my?id=%2Fpersonal%2F2660237w%5Fstudent%5Fgla%5Fac%5Fuk%2FDocuments%2FMA%20FILES%2FWEEK%208%20CSV&ct=1733493944870&or=OWA%2DNT%2DMail&cid=b413a9ec%2D575d%2D96a1%2Df8c7%2Daed9b6efa1e1&ga=1)
 
-
-Time-frequency analysis has an advantage over waveform-based analysis by providing a simultaneous view of both time and frequency information. While waveform analysis typically focuses on either time or frequency domains separately, time-frequency methods reveal how a signal's frequency components evolve. This could be useful for analysing non-stationary signals, such as speech, music, or biological data, where frequency content changes over time. Time-frequency analysis is better suited for understanding dynamic and complex signals by capturing both temporal and spectral details.
 
 
 # Week 9: Analysing and Extracting Audio from Data
