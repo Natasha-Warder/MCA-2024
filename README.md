@@ -128,9 +128,11 @@ The audio has a broad pitch range of 41 semitones, with a central focus around F
 
 
 ### The Piano Roll of pitches measures the pitch, length, and velocity of notes, seen below:
+
   <img title="Piano Roll" alt="Plotted pitches" src="images/pianoroll.png">
 
-  ### The Histogram, documents the distribution of a set of pitches from  the piano roll, seen below:
+### The Histogram, documents the distribution of a set of pitches from  the piano roll, seen below:
+
  <img title="Histogram" alt="Documenting most and least used pitches" src="images/histogram1.png">
 
 - A histogram based on the piano roll shows the distribution of pitches, with a higher frequency around F (pitch class 5), reflecting its prominence in the audio.
